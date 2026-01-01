@@ -11,5 +11,5 @@ The poster highlights key insights shared by the industry speaker.
 ## 📂 Repository Contents
 ```text
 Assignment-2-Poster/
-├── Poster.png
+├── Poster.jpeg
 └── README.md
