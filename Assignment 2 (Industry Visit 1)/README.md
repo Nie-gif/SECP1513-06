@@ -6,6 +6,8 @@
 For this assignment, we worked as a group to design a poster based on the **PPG Industry Talk**.  
 The poster highlights key insights shared by the industry speaker.
 
+![Poster Preview](PPG Indusrty Talk.png)
+
 
 
 ## 📂 Repository Contents
