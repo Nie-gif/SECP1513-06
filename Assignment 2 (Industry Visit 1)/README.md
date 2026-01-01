@@ -12,4 +12,4 @@ For this assignment, we worked as a group to design a poster based on the **UTM 
 
 
 ## Reflection
-The PPG industry talk gave me valuable insight on how global organization integrates technology to protect nad beautifying this world. I also learned that ICT in companies like PPG is not limited to traditional IT support but plays a stratergic role in areas .
+The PPG industry talk gave me valuable insight on how global organization integrates technology to protect nad beautifying this world. I also learned that ICT in companies like PPG is not limited to traditional IT support but plays a stratergic role in areas .Overall, this assignment helped me appreciate how ICT solves real-world buisness and challenges.
