@@ -3,8 +3,8 @@
 
 
 ## 📖 Description
-For this assignment, we worked as a group to design a poster based on the **PPG Industry Talk**.  
-The poster highlights key insights shared by the industry speaker.
+For this assignment, we worked as a group to design a poster based on the **UTM Digital Visit**.  
+
 
 
 
@@ -12,5 +12,4 @@ The poster highlights key insights shared by the industry speaker.
 
 
 ## Reflection
-
-From this assignment , I was provided valuable insight about how a global organization integrates technology to protect and beautifying this world.I also learned that ICT in companies like PPG is not limited to traditional IT support but plays a stratergic role in areas.Overall, it helped me appreciate how ICT solved real-world buisness .
+From the UTM Digital visit, I learned that being in the computing field is not only about coding, but also about having strong management skills to complete projects effectively. The visit opened my eyes on how  the computing field is, covering many roles and responsibilities beyond programming. This experience really changed my perspective and helped me better understand the demands of a career in computing.
