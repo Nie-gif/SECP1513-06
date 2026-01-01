@@ -12,4 +12,4 @@ For this assignment, we worked as a group to design a poster based on the **UTM 
 
 
 ## Reflection
-From the UTM Digital visit, I learned that being in the computing field is not only about coding, but also about having strong management skills to complete projects effectively. The visit opened my eyes on how  the computing field is, covering many roles and responsibilities beyond programming. This experience really changed my perspective and helped me better understand the demands of a career in computing.
+The PPG industry talk gave me valuable insight on how global organization integrates technology to protect nad beautifying this world. I also learned that ICT in companies like PPG is not limited to traditional IT support but plays a stratergic role in areas .
