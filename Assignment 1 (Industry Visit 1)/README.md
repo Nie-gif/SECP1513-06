@@ -8,7 +8,7 @@ The poster highlights key insights shared by the industry speaker.
 
 
 
-![PPG_Idustry_Talk](https://github.com/user-attachments/assets/0956b130-de91-416c-a45c-42c8b0f0011c)
+
 
 
 ## Reflection
