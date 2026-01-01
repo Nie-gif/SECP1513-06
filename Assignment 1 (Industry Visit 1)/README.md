@@ -1,5 +1,5 @@
-# 📌 Assignment 2: Poster Design  
-## 🎤 PPG Industry Talk
+# 📌 Assignment 1: Industry Visit Vlog  
+
 
 
 ## 📖 Description
@@ -7,6 +7,8 @@ For this assignment, we worked as a group to create a short vlog based our exper
 The poster highlights key insights shared by the industry speaker.
 
 
+## 📽️ Project Video
+👉 [Watch the Industry Visit Vlog](https://youtu.be/p05J5pTfHg4?si=_W62TNPhAZhS-DWl)
 
 
 
