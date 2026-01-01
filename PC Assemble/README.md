@@ -1,4 +1,4 @@
-![PC Assemble](https://github.com/user-attachments/assets/b217e0c7-da3f-4400-b0b6-4b7d5ac3d777)# 📌 PC ASSemble
+# 📌 PC ASSemble
 
 
 ## 📖 Description
