@@ -3,8 +3,7 @@
 
 
 ## 📖 Description
-For this assignment, we worked as a group to create a short vlog based our experience on the **PPG Industry Talk**.  
-The poster highlights key insights shared by the industry speaker.
+We visited UTM Digital and we recorded a short vlog about the visit
 
 
 ## 📽️ Project Video
