@@ -8,6 +8,7 @@ For this assignment, we worked as a group to create a report based on Industry T
 
 ![Industry Talk](https://github.com/user-attachments/assets/2ff12aee-fc55-4cbb-93d7-b0a5c215083e)
 
+[Download Project PDF]()
 
 
 
