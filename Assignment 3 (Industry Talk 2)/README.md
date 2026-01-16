@@ -12,5 +12,6 @@ For this assignment, we worked as a group to create a report based on Industry T
 
 
 
+
 ## Reflection
 Based on the industry talk , I learned the key of success in computer science requires more than technical knowledge . I need to understand the core concepts like SDLC , applying knowledge in real situations and continously learning continuously learning are essential.The talk also reminded me to use AI wisely as a supporting tool to learn  
