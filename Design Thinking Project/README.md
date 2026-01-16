@@ -9,7 +9,7 @@ In this project , we wrote a group report and create a short video video entilte
 
 ## 📽️ Project Video
 👉 [Watch PROJECT DESIGN THINKING (THECUTLAB) ](https://youtu.be/gZ4C8fUo5AQ?si=_TVDgto68T-tj3Tk)
-
+ 👉[Download Project PDF]()
 
 
 
