@@ -6,8 +6,8 @@
 We visited the IC Department of JohorPort Berhad and we came out with a newsletter
 
 
-## 📰 Project Video
-👉 [Watch the Industry Visit Vlog](https://youtu.be/p05J5pTfHg4?si=_W62TNPhAZhS-DWl)
+## 📰 Newsletter
+👉 [Download Newsletter](https://github.com/Nie-gif/SECP1513-06/blob/1b8aa189e5d41d914114d2d35a836c5a3322c210/Assignment%204/Assignment%204%20TIS_20260118_202613_0000.pdf)
 
 
 
